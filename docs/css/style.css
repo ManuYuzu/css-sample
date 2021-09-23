@@ -11,7 +11,7 @@
 }
 
 .placeholder {
-  background-image: url("/src/assets/img.jpg");
+  background-image: url("./assets/img.jpg");
   width: calc(var(--width) / 2);
   height: var(--length);
   overflow: hidden;
