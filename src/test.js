@@ -7,7 +7,7 @@ const toPrint = function(value, number) {
     console.log(`${text} nº: ${i}`)
     i--
   }
-
+ () => {}
 }
 
 toPrint(text, i)
